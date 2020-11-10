@@ -1,0 +1,2 @@
+# pokeDMGcal
+pokemon_damage_calculator
